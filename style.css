@@ -1,0 +1,108 @@
+    body{
+    font-family: sans-serif;
+    }
+
+    section{
+    display: flex;
+    padding: 0 3%;
+    }
+
+    .half-width{
+    width: 50%;
+    }
+
+    .top-padding{
+    padding-top: 60px;
+    }
+
+    .heading{
+    font-size: 60px;}
+
+    .light-green{
+    color: #9AAC38;
+    }
+
+    .body-color{
+    color: #A9665D;
+    }
+
+    .bg-black{
+    background-color: black;
+    }
+
+    .white{
+    color: white;
+    }
+
+    .booking-button{
+    text-decoration: none;
+    color: white;
+    padding: 10px 20px;
+    background-image: linear-gradient(#532B23, #A9665D);
+    border-radius: 4px;
+    }
+
+    .skin-color{
+    color: #A86E3C;
+    }
+    .bg-second{
+    background-image: url(img/Frame.jpg);
+    background-size: cover;
+    }
+
+    .know-button{
+    text-decoration: none;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 3px;
+    background-image: linear-gradient(#E624AB, #FC4BC0);
+    }
+
+    .center{
+    text-align: center;
+    }
+    .grey{
+    color: grey;}
+
+    .blog{
+    margin: 20px 20px;
+    width: 320px;
+    border-radius: 10px;
+    text-align: justify;
+    box-shadow: 5px 10px 15px 5px grey}
+
+    .card-padding{
+    margin: 10px 10px;
+    }
+
+    .image-border{
+    border-radius: 10px;
+    }
+
+    .bg-2{
+    background-image: url(img/Frame1.jpg);
+    background-size: cover;
+    }
+
+    .info{
+    box-shadow:  5px 10px 15px 5px grey;
+    border-radius: 10px;
+    margin: 10px 20px;
+    }
+
+    .info-item{
+    margin: 5px 100px;
+    }
+
+
+    .footer{
+    margin-top: 40px;
+    background-color: #92DBFE;
+    padding: 20px 0;
+    border-radius: 5px;
+    }
+    .icon{
+     margin: 0 3px;
+     height: 40px;
+     width: 40px;
+     }
